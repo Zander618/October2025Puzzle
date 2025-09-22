@@ -3,6 +3,8 @@ body {
   background: #f5f5f5;
   text-align: center;
   color: #f5f5f5;
+  justify-content: "center";
+  align-items: "center";
 }
 
 @media (prefers-color-scheme: dark) {
